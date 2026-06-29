@@ -1,0 +1,14 @@
+{
+  "name": "monopolling",
+  "version": "1.0.0",
+  "description": "QA-обход своего сайта на Playwright: имитация поведения пользователя с тестовой пометкой трафика",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "playwright install chromium"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
