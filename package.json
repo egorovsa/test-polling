@@ -1,7 +1,7 @@
 {
   "name": "monopolling",
   "version": "1.0.0",
-  "description": "QA-обход своего сайта на Playwright: имитация поведения пользователя с тестовой пометкой трафика",
+  "description": "Playwright-based QA crawl of your own site with simulated visitor behavior and random real user agents",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
